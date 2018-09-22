@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MSP430FR2355
+K Microcontroller, mcu, TI, MSP430, fr2355, 2355
+$ENDCMP
+#
 #End Doc Library
